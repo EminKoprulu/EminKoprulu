@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQF8E0uQGGQdbQ/profile-displaybackgroundimage-shrink_350_1400/0/1675766274573?e=1711584000&v=beta&t=7HxoazffdeGB_d69Dm4ZacUr7hdJFV-Tksrv7zCDce0)
+![MasterHead]([https://media.licdn.com/dms/image/D4D16AQF8E0uQGGQdbQ/profile-displaybackgroundimage-shrink_350_1400/0/1675766274573?e=1711584000&v=beta&t=7HxoazffdeGB_d69Dm4ZacUr7hdJFV-Tksrv7zCDce0](https://x.com/BartinChain/header_photo))
 <h1 align="center">Hi 👋 I'm Emin Köprülü</h1>
 <h3 align="center">A passionate learner of data science and software from Turkey. I am a 3rd-year Management Information Systems student. I am interested in data science, blockchain, and artificial intelligence.</h3>
 

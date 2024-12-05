@@ -1,14 +1,16 @@
-![MasterHead]([https://media.licdn.com/dms/image/D4D16AQF8E0uQGGQdbQ/profile-displaybackgroundimage-shrink_350_1400/0/1675766274573?e=1711584000&v=beta&t=7HxoazffdeGB_d69Dm4ZacUr7hdJFV-Tksrv7zCDce0](https://x.com/BartinChain/header_photo))
-<h1 align="center">Hi 👋 I'm Emin Köprülü</h1>
-<h3 align="center">A passionate learner of data science and software from Turkey. I am a 3rd-year Management Information Systems student. I am interested in data science, blockchain, and artificial intelligence.</h3>
 
-- 🌱 I’m currently learning **Python, Data Science and Statistics.**
+<![1500x500](https://github.com/user-attachments/assets/114ebcd8-82ce-4948-8249-0aed918fefe2)
+
+h1 align="center">Hi 👋 I'm Emin Köprülü</h1>
+<h3 align="center">A passionate learner of software and data science from Turkey. I am a 4rd-year Management Information Systems student. I am interested in data science, blockchain, and artificial intelligence.</h3>
+
+- 🌱 I’m currently learning **Python, C# and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EminKoprulu](https://github.com/EminKoprulu)
 
 - 📝 I regularly write articles on [https://medium.com/@EminKoprulu](https://medium.com/@EminKoprulu)
 
-- 💬 Ask me about **Blockchain, Data Science**
+- 💬 Ask me about **Blockchain, Data Science, .Net Framework**
 
 - 📫 How to reach me **eminkoprulu1@gmail.com**
 

@@ -2,7 +2,7 @@
 ![1500x500](https://github.com/user-attachments/assets/114ebcd8-82ce-4948-8249-0aed918fefe2)
 
 <h1 align="center">Hi 👋 I'm Emin Köprülü</h1>
-<h3 align="center">A passionate learner of software and data science from Turkiye. I am a 4rd-year Management Information Systems student. I am interested in data science, blockchain, and artificial intelligence.</h3>
+<h3 align="center">A passionate learner of software and data science from Turkiye. I am interested in software development, data science, blockchain, and artificial intelligence.</h3>
 
 - 🌱 I’m currently learning **Python, C# and Data Science**
 

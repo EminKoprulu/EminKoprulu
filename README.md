@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Blockchain, Data Science, .Net Framework**
 
-- 📫 How to reach me **eminkoprulu1@gmail.com**
+- 📫 How to reach me **eminkoprulucontact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
